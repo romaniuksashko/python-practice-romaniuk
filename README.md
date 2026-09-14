@@ -4,6 +4,8 @@ Student: Oleksandr Romaniuk
 Group: IT-31
 Course: Python programming, semester 1
 
+Email: romanuksashko@gmail.com
+
 ## Contents
 
 - practice3 - development environment
